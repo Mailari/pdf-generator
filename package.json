@@ -1,0 +1,17 @@
+{
+  "name": "pdf-generator-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/pdfkit": "^0.12.6",
+    "pdfkit": "^0.13.0"
+  }
+}
